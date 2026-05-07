@@ -53,8 +53,7 @@ ___________________
 - Searched for the word "secret" via `Cmd + F` 
 - Found a match and clicking it
 
-
-![Viewing secret-page via Page Source](screenshots/06_secret-page.png) 
+![Viewing secret-page via Page Source](screenshots/08_Searching_for_secret.png) 
 
 [Flag # 2](screenshots/07_Flag2.png)
 
