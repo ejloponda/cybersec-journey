@@ -1,4 +1,4 @@
-The page source is the human-readable code returned to our browser/client from the web server each time we make a request.
+<img width="1566" height="248" alt="image" src="https://github.com/user-attachments/assets/fcd75c13-d0a2-4061-ae76-1a4d1266b6fd" />The page source is the human-readable code returned to our browser/client from the web server each time we make a request.
 
 The returned code is made up of HTML ( HyperText Markup Language), CSS ( Cascading Style Sheets ) and JavaScript, and it's what tells our browser what content to display, how to show it and adds an element of interactivity with JavaScript.
 
@@ -13,8 +13,15 @@ In this activity, We have four questions :
 3. What is the directory listing flag?
 4. What is the framework flag?
 
-For number 1, this is what I did :
-[View Page Source](screenshots/02_Viewing_PageSource.png) | Check for clues; for this I was using Google Chrome on a Mac
+For number 1
+
+This is what I did :
+
+[Viewing Page Source](screenshots/02_Viewing_PageSource.png) | Check for clues; for this I was using Google Chrome on a Mac
 
 [Clue from comments](screenshots/03_clue_from_comments.png) | Clue was left on the comment section
+
+[Inserting suspected directory to the URL](screenshots/04_adding_newhomebeta_url.png) | adding "/new-home-beta" to the url
+
+[Flag # 1](screenshots/05_Question1_Flag.png)
 
