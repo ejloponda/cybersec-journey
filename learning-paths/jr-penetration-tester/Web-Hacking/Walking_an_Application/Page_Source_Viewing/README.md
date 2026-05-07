@@ -28,4 +28,9 @@ This is what I did :
 
 For number 2
 
+[Viewing secret-page via Page Source](screenshots/06_secret-page.png) | Via Page Source inspection, there is a secret-page link that you can click
+
+[Flag # 2](screenshots/07_Flag2.png)
+
+
 
