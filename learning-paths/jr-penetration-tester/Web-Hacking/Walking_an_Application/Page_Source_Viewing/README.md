@@ -16,5 +16,5 @@ In this activity, We have four questions :
 For number 1, this is what I did :
 [View Page Source](screenshots/02_Viewing_PageSource.png) | Check for clues; for this I was using Google Chrome on a Mac
 
-[Clue from comments](03_clue_from_comments.png) | Clue was left on the comment section
+[Clue from comments](screenshots/03_clue_from_comments.png) | Clue was left on the comment section
 
