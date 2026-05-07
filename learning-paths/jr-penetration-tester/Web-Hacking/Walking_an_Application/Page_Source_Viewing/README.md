@@ -4,4 +4,4 @@ The returned code is made up of HTML ( HyperText Markup Language), CSS ( Cascadi
 
 For this purposes, viewing the page source can help us discover more information about the web application.
 
-[ACME WEBSITE](screenshots/ACME-WebPage.jpg)
+[ACME WEBSITE](screenshots/ACME-WebPage.jpg) --> The Target website 
