@@ -14,4 +14,5 @@ In this activity, We have four questions :
 4. What is the framework flag?
 
 For number 1, this is what I did :
-[View Page Source](screenshots/02_Viewing_PageSource.png) | Check for clues 
+[View Page Source](screenshots/02_Viewing_PageSource.png) | Check for clues; for this I was using Google Chrome on a Mac
+
