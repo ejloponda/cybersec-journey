@@ -47,6 +47,7 @@ ___________________
 **Flag 1:** `THM{REDACTED}` ✅
 
 --------------------------
+
 ### Task 2 — What is the flag from the secret link?
 
 **Approach:**
@@ -55,7 +56,9 @@ ___________________
 
 ![Viewing secret-page via Page Source](screenshots/08_Searching_for_secret.png) 
 
-[Flag # 2](screenshots/07_Flag2.png)
+![Flag # 2](screenshots/09_Flag2.png)
+
+**Flag 2:** `THM{REDACTED}` ✅
 
 
 
