@@ -12,7 +12,8 @@ In this activity, We have four questions :
 2. What is the flag from the secret link?
 3. What is the directory listing flag?
 4. What is the framework flag?
-
+   
+----------------------------
 For number 1
 
 This is what I did :
@@ -26,6 +27,7 @@ This is what I did :
 [Flag # 1](screenshots/05_Question1_Flag.png)
 
 
+--------------------------
 For number 2
 
 [Viewing secret-page via Page Source](screenshots/06_secret-page.png) | Via Page Source inspection, there is a secret-page link that you can click
