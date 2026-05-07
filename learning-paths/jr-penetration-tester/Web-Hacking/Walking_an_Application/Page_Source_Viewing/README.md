@@ -81,4 +81,34 @@ ____________________
 
 **Flag 3:** `THM{REDACTED}` ✅
 
+____________________
+
+### Task 4 — What is the framework flag??
+
+**Approach:**
+- Search the word "Framework" via view page source
+- Discovered "Framework" information via comments
+- Accessed discovered url from the comment
+- Accessed new page, clicked changelog and found new information /tmp.zip
+- Manually adding tmp.zip to the URL and downloaded tmp.zip
+- Unzip tmp.zip and found flag.txt
+- clicking flag.txt
+
+
+![Search_Framework](screenshots/14_Inspect_Search_Framework.png)
+
+![ChangeLog_Accessed](screenshots/15_Changelog_tmp.png)
+
+![Modifying URL](screenshots/16_adding_tmpzip.png)
+
+![Manually Ading tmp.zip_to_URL](screenshots/17_tmpDL.png)
+
+![DownloadingZipandUnzipping](screenshots/18_tmpDLzip.png)
+
+![Flag4](screenshots/19_Flag4.png)
+
+
+
+**Flag 4:** `THM{REDACTED}` ✅
+
 
