@@ -5,3 +5,13 @@ The returned code is made up of HTML ( HyperText Markup Language), CSS ( Cascadi
 For this purposes, viewing the page source can help us discover more information about the web application.
 
 [ACME WEBSITE](screenshots/ACME-WebPage.jpg) --> The Target website 
+
+In this activity, We have four questions :
+
+1. What is the flag from the HTML comment?
+2. What is the flag from the secret link?
+3. What is the directory listing flag?
+4. What is the framework flag?
+
+For number 1, this is what I did :
+
