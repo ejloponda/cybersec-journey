@@ -61,4 +61,16 @@ ___________________
 **Flag 2:** `THM{REDACTED}` ✅
 
 
+### Task 3 — What is the directory listing flag??
+
+**Approach:**
+- Inspect the webpage via inspection tool
+- Discovered "assets" folder via sources tab
+- Manually adding "assets" to the URL
+- Discovered different files including flag.txt
+- clicking flag.txt
+
+
+**Flag 3:** `THM{REDACTED}` ✅
+
 
