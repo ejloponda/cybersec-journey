@@ -59,7 +59,7 @@ ___________________
 ![Flag # 2](screenshots/09_Flag2.png)
 
 **Flag 2:** `THM{REDACTED}` ✅
-
+____________________
 
 ### Task 3 — What is the directory listing flag??
 
