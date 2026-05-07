@@ -1,10 +1,25 @@
-The page source is the human-readable code returned to our browser/client from the web server each time we make a request.
+# 🌐 Walking An Application — Page Source Viewing
+**Platform:** TryHackMe  
+**Path:** Jr Penetration Tester → Web Hacking  
+**Status:** ✅ Completed 
+__________
+## 🎯 Objective
+Learn how to manually review a web application for vulnerabilities 
+using only a browser's built-in developer tools.
 
-The returned code is made up of HTML ( HyperText Markup Language), CSS ( Cascading Style Sheets ) and JavaScript, and it's what tells our browser what content to display, how to show it and adds an element of interactivity with JavaScript.
+__________
 
-For this purposes, viewing the page source can help us discover more information about the web application.
+## 🧠 Key Concepts Learned
+- Page source is the human-readable code returned by the web server
+- Page source is made up of HTML, CSS, and JavaScript
+- Viewing page source can reveal hidden comments, credentials, 
+  and hidden endpoints
 
-[ACME WEBSITE](screenshots/ACME-WebPage.jpg) --> The Target website 
+___________
+## 🎯 Target
+**ACME Website** — used as the practice target for this room
+_____________
+![ACME WEBSITE](screenshots/ACME-WebPage.jpg) 
 
 In this activity, We have four questions :
 
@@ -12,25 +27,34 @@ In this activity, We have four questions :
 2. What is the flag from the secret link?
 3. What is the directory listing flag?
 4. What is the framework flag?
-   
-----------------------------
-For number 1
 
-This is what I did :
+___________________
+## ❓ Tasks & Solutions
 
-[Viewing Page Source](screenshots/02_Viewing_PageSource.png) | Check for clues; for this I was using Google Chrome on a Mac
+### Task 1 — What is the flag from the HTML comment?
 
-[Clue from comments](screenshots/03_clue_from_comments.png) | Clue was left on the comment section
+**Approach:**
+- Opened page source in Google Chrome on Mac (`Cmd + U`)
+- Searched for HTML comments using `Cmd + F` and typing `<!--`
+- Found a clue left in the comment section
+- Manually Adding the suspected directory to the URL
 
-[Inserting suspected directory to the URL](screenshots/04_adding_newhomebeta_url.png) | adding "/new-home-beta" to the url
+![Viewing Page Source](screenshots/02_Viewing_PageSource.png)
+![Clue from Comments](screenshots/03_clue_from_comments.png)
+![Adding New Home Beta URL](screenshots/04_adding_newhomebeta_url.png)
+![Flag # 1](screenshots/05_Question1_Flag.png)
 
-[Flag # 1](screenshots/05_Question1_Flag.png)
-
+**Flag 1:** `THM{REDACTED}` ✅
 
 --------------------------
-For number 2
+### Task 2 — What is the flag from the secret link?
 
-[Viewing secret-page via Page Source](screenshots/06_secret-page.png) | Via Page Source inspection, there is a secret-page link that you can click
+**Approach:**
+- Searched for the word "secret" via `Cmd + F` 
+- Found a match and clicking it
+
+
+![Viewing secret-page via Page Source](screenshots/06_secret-page.png) 
 
 [Flag # 2](screenshots/07_Flag2.png)
 
