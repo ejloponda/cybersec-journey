@@ -70,6 +70,14 @@ ___________________
 - Discovered different files including flag.txt
 - clicking flag.txt
 
+![Inspecting_Webpage](screenshots/10_Inspect_webpage.png)
+
+![Discovered_Assets_Folder](screenshots/11_Assets_directory.png)
+
+![Modifying URL](screenshots/12_IndexofAssets.png)
+
+![Flag3](screenshots/13_flag3.png)
+
 
 **Flag 3:** `THM{REDACTED}` ✅
 
